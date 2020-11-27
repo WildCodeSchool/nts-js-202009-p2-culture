@@ -7,7 +7,7 @@ On fait quoi ce weekend ?
 
 Et si on allait sur Nant’events pour voir les évènements culturels proposés par la ville!
 
-# Liens des API utilisées :
+Liens des API utilisées :
 
 Agenda des événements de la Ville de Nantes :
 
