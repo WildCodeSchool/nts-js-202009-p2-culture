@@ -5,7 +5,7 @@
 
 On fait quoi ce weekend ?
 
-Et si on allait sur Nant’events pour voir les évènements culturels proposés par la ville!
+Et si on allait sur Nant’Events pour voir les évènements culturels proposés par la ville!
 
 Liens des API utilisées :
 
