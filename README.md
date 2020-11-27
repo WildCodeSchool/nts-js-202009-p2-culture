@@ -1,4 +1,4 @@
-# Projet n°2 : Nant’Events (! still under development !)
+# Projet n°2 : Nant’Events
 
 # https://nant-events.netlify.app/
 
